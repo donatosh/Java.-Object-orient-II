@@ -1,4 +1,4 @@
-package TestCircleWithException;
+package Exceptions.CircleWithException;
 
 public class CircleWithException {
     /** Радиус круга */
