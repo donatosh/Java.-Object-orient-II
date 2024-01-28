@@ -1,0 +1,299 @@
+{
+  "title": {
+    "title": "Выплаты и события"
+  },
+  "filtersList": {
+    "filters": [{
+      "filterId": "filter.event.type",
+      "value": "Тип события",
+      "filtersContent": {
+        "title": "Тип события",
+        "values": [{
+          "content": "div",
+          "frontValue": "Дивиденды"
+        }, {
+          "content": "coup",
+          "frontValue": "Купоны"
+        },
+          {
+            "content": "oferts",
+            "frontValue": "Оферты IPO/SPO"
+          }]
+      },
+      "selected": false
+    }, {
+      "filterId": "filter.period.days",
+      "value": "Период",
+      "filtersContent": {
+        "title": "Период",
+        "values": [
+          {
+            "content":  "oferts",
+            "frontValue": "Оферты IPO/SPO"
+          },
+          {
+            "content": "30",
+            "frontValue": "30 дней"
+          }, {
+            "content": "90",
+            "frontValue": "3 месяца"
+          }, {
+            "content": "180",
+            "frontValue": "6 месяцев"
+          }, {
+            "content": "custom",
+            "frontValue": "Выбрать период"
+          }]
+      },
+      "selected": false
+    }, {
+      "filterId": "filter.account",
+      "value": "Счёт",
+      "filtersContent": {
+        "title": "Счёт",
+        "values": [{
+          "content": "42008JV",
+          "frontValue": "42008JV"
+        }, {
+          "content": "42008JA",
+          "frontValue": "42008JA"
+        }, {
+          "content": "42008J9",
+          "frontValue": "42008J9"
+        }, {
+          "content": "42008J2",
+          "frontValue": "42008J2"
+        }, {
+          "content": "42008G6",
+          "frontValue": "42008G6"
+        }, {
+          "content": "42008G5",
+          "frontValue": "42008G5"
+        }, {
+          "content": "42006TT",
+          "frontValue": "42006TT"
+        }, {
+          "content": "42006NK",
+          "frontValue": "42006NK"
+        }, {
+          "content": "42006NJ",
+          "frontValue": "42006NJ"
+        }, {
+          "content": "42006ML",
+          "frontValue": "42006ML"
+        }, {
+          "content": "S2006HY",
+          "frontValue": "S2006HY"
+        }, {
+          "content": "42006HY",
+          "frontValue": "42006HY"
+        }]
+      },
+      "selected": false
+    }]
+  },
+  "banners": [{
+    "icon": {
+      "name": "ds_ic_24_clock_fill",
+      "color": "grey"
+    },
+    "title": "1 000 315 153,54 ₽",
+    "description": "Ожидается в течение 6 месяцев"
+  }, {
+    "icon": {
+      "name": "ds_ic_24_wallet",
+      "color": "green"
+    },
+    "title": "118 353,44 ₽",
+    "description": "Уже выплачено в этом году"
+  }],
+  "eventsSection": {
+    "title": "Ближайшие события",
+    "events": [{
+      "date": "4 февраля 2024",
+      "corpActionCards": [{
+        "securityName": "Аэрофлот",
+        "logoUrlSmall": "/images/company_logo_small/6368_small.png",
+        "corporateActionType": "Дивиденды",
+        "reference": "-",
+        "isin": "-",
+        "paymentField": {
+          "values": ["23 333,68 ₽"]
+        },
+        "totalSecuritiesQuantity": {
+          "values": ["за 320 шт."]
+        },
+        "deepLink": "sberinvestor://ipospo/oferta/smart_positi",
+        "state": {
+          "values": ["Докупить до 03.02.2024"]
+        }
+      }]
+    }, {
+      "date": "10 марта 2024",
+      "corpActionCards": [{
+        "securityName": "Сбербанк России",
+        "logoUrlSmall": "/images/company_logo_small/7205_small.png",
+        "corporateActionType": "Дивиденды",
+        "reference": "06072023-DVCASBER_R",
+        "isin": "RU0009029540",
+        "paymentField": {
+          "values": ["34 017,90 ₽"]
+        },
+        "totalSecuritiesQuantity": {
+          "values": ["за 320 шт."]
+        },
+        "state": {
+          "values": ["Докупить до 09.03.2024"]
+        }
+      }, {
+        "securityName": "Сбербанк России",
+        "logoUrlSmall": "/images/company_logo_small/7205_small.png",
+        "corporateActionType": "Дивиденды",
+        "reference": "28062023-DVCASBER_R",
+        "isin": "RU0009029540",
+        "paymentField": {
+          "values": ["34 025,56 ₽"]
+        },
+        "totalSecuritiesQuantity": {
+          "values": ["за 320 шт."]
+        },
+        "state": {
+          "values": ["Докупить до 09.03.2024"]
+        }
+      }, {
+        "securityName": "Сбербанк России",
+        "logoUrlSmall": "/images/company_logo_small/7205_small.png",
+        "corporateActionType": "Дивиденды",
+        "reference": "PORTFOLIO_DVCA_SBER",
+        "isin": "RU0009029540",
+        "paymentField": {
+          "values": ["34 017,90 ₽"]
+        },
+        "totalSecuritiesQuantity": {
+          "values": ["за 320 шт."]
+        },
+        "state": {
+          "values": ["Докупить до 09.03.2024"]
+        }
+      }, {
+        "securityName": "Сбербанк России",
+        "logoUrlSmall": "/images/company_logo_small/7205_small.png",
+        "corporateActionType": "Дивиденды",
+        "reference": "21062023-DVCASBER_R",
+        "isin": "RU0009029540",
+        "paymentField": {
+          "values": ["34 017,90 ₽"]
+        },
+        "totalSecuritiesQuantity": {
+          "values": ["за 320 шт."]
+        },
+        "state": {
+          "values": ["Докупить до 09.03.2024"]
+        }
+      }, {
+        "securityName": "Сбербанк России",
+        "logoUrlSmall": "/images/company_logo_small/7205_small.png",
+        "corporateActionType": "Дивиденды",
+        "reference": "29062023-DVCASBER_R",
+        "isin": "RU0009029540",
+        "paymentField": {
+          "values": ["34 017,90 ₽"]
+        },
+        "totalSecuritiesQuantity": {
+          "values": ["за 320 шт."]
+        },
+        "state": {
+          "values": ["Докупить до 09.03.2024"]
+        }
+      }]
+    }, {
+      "date": "5 апреля 2024",
+      "corpActionCards": [{
+        "securityName": "Магнит",
+        "logoUrlSmall": "/images/company_logo_small/88326_small.png",
+        "corporateActionType": "Дивиденды",
+        "reference": "644126",
+        "isin": "RU000A0JKQU8",
+        "paymentField": {
+          "values": ["40 976,20 ₽"]
+        },
+        "totalSecuritiesQuantity": {
+          "values": ["за 160 шт."]
+        }
+      }]
+    }, {
+      "date": "16 апреля 2024",
+      "corpActionCards": [{
+        "securityName": "Магнит",
+        "logoUrlSmall": "/images/company_logo_small/88326_small.png",
+        "corporateActionType": "Дивиденды",
+        "reference": "6441262",
+        "isin": "RU000A0JKQU8",
+        "paymentField": {
+          "values": ["1 000 000 179,20 ₽"]
+        },
+        "totalSecuritiesQuantity": {
+          "values": ["за 5 шт."]
+        },
+        "state": {
+          "values": ["Частично выплачены"]
+        }
+      }]
+    }, {
+      "date": "2 мая 2024",
+      "corpActionCards": [{
+        "securityName": "ГТЛК БО-03",
+        "logoUrlSmall": "/images/company_logo_small/94581_small.png",
+        "corporateActionType": "Купоны",
+        "reference": "170778",
+        "isin": "RU000A0JV375",
+        "paymentField": {
+          "values": ["8 313,60 ₽"]
+        },
+        "totalSecuritiesQuantity": {
+          "values": ["за 320 шт."]
+        }
+      }]
+    }, {
+      "date": "3 мая 2024",
+      "corpActionCards": [{
+        "securityName": "Новатэк",
+        "logoUrlSmall": "/images/company_logo_small/87227_small.png",
+        "corporateActionType": "Дивиденды",
+        "reference": "788969X7442",
+        "isin": "RU000A0DKVS5",
+        "paymentField": {
+          "values": ["8 432,80 ₽"]
+        },
+        "totalSecuritiesQuantity": {
+          "values": ["за 160 шт."]
+        },
+        "state": {
+          "values": ["Докупить до 05.05.2024"]
+        }
+      }, {
+        "securityName": "ПЕРЕСВ БП2",
+        "logoUrlSmall": "/images/company_logo_small/86238_small.png",
+        "corporateActionType": "Купоны",
+        "reference": "INTR_PERESVET_RU000A0JVVL4",
+        "isin": "RU000A0JVVL4",
+        "paymentField": {
+          "values": ["— "]
+        },
+        "totalSecuritiesQuantity": {
+          "values": ["за 320 шт."]
+        },
+        "state": {
+          "values": ["Выплаты отменены"],
+          "params": {
+            "color": "red"
+          }
+        }
+      }]
+    }]
+  },
+  "page": {
+    "page": 1,
+    "totalPages": 1
+  }
+}
